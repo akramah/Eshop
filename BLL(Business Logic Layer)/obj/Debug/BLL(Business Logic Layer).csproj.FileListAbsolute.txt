@@ -1,0 +1,17 @@
+F:\office final project\N-Tier Arch\BLL(Business Logic Layer)\bin\Debug\BLL(Business Logic Layer).dll
+F:\office final project\N-Tier Arch\BLL(Business Logic Layer)\bin\Debug\BLL(Business Logic Layer).pdb
+F:\office final project\N-Tier Arch\BLL(Business Logic Layer)\bin\Debug\BOL(Business Objects Layer).dll
+F:\office final project\N-Tier Arch\BLL(Business Logic Layer)\bin\Debug\DAL(Data Access Layer).dll
+F:\office final project\N-Tier Arch\BLL(Business Logic Layer)\bin\Debug\EntityFramework.dll
+F:\office final project\N-Tier Arch\BLL(Business Logic Layer)\bin\Debug\EntityFramework.SqlServer.dll
+F:\office final project\N-Tier Arch\BLL(Business Logic Layer)\bin\Debug\BOL(Business Objects Layer).pdb
+F:\office final project\N-Tier Arch\BLL(Business Logic Layer)\bin\Debug\BOL(Business Objects Layer).dll.config
+F:\office final project\N-Tier Arch\BLL(Business Logic Layer)\bin\Debug\DAL(Data Access Layer).pdb
+F:\office final project\N-Tier Arch\BLL(Business Logic Layer)\bin\Debug\DAL(Data Access Layer).dll.config
+F:\office final project\N-Tier Arch\BLL(Business Logic Layer)\bin\Debug\EntityFramework.xml
+F:\office final project\N-Tier Arch\BLL(Business Logic Layer)\bin\Debug\EntityFramework.SqlServer.xml
+F:\office final project\N-Tier Arch\BLL(Business Logic Layer)\obj\Debug\BLL(Business Logic Layer).csprojAssemblyReference.cache
+F:\office final project\N-Tier Arch\BLL(Business Logic Layer)\obj\Debug\BLL(Business Logic Layer).csproj.CoreCompileInputs.cache
+F:\office final project\N-Tier Arch\BLL(Business Logic Layer)\obj\Debug\BLL(Business Logic Layer).csproj.CopyComplete
+F:\office final project\N-Tier Arch\BLL(Business Logic Layer)\obj\Debug\BLL(Business Logic Layer).dll
+F:\office final project\N-Tier Arch\BLL(Business Logic Layer)\obj\Debug\BLL(Business Logic Layer).pdb

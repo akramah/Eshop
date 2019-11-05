@@ -1,0 +1,12 @@
+F:\office final project\N-Tier Arch\BOL(Business Objects Layer)\bin\Debug\BOL(Business Objects Layer).dll.config
+F:\office final project\N-Tier Arch\BOL(Business Objects Layer)\bin\Debug\BOL(Business Objects Layer).dll
+F:\office final project\N-Tier Arch\BOL(Business Objects Layer)\bin\Debug\BOL(Business Objects Layer).pdb
+F:\office final project\N-Tier Arch\BOL(Business Objects Layer)\bin\Debug\EntityFramework.dll
+F:\office final project\N-Tier Arch\BOL(Business Objects Layer)\bin\Debug\EntityFramework.SqlServer.dll
+F:\office final project\N-Tier Arch\BOL(Business Objects Layer)\bin\Debug\EntityFramework.xml
+F:\office final project\N-Tier Arch\BOL(Business Objects Layer)\bin\Debug\EntityFramework.SqlServer.xml
+F:\office final project\N-Tier Arch\BOL(Business Objects Layer)\obj\Debug\BOL(Business Objects Layer).csproj.CoreCompileInputs.cache
+F:\office final project\N-Tier Arch\BOL(Business Objects Layer)\obj\Debug\BOL(Business Objects Layer).csproj.CopyComplete
+F:\office final project\N-Tier Arch\BOL(Business Objects Layer)\obj\Debug\BOL(Business Objects Layer).dll
+F:\office final project\N-Tier Arch\BOL(Business Objects Layer)\obj\Debug\BOL(Business Objects Layer).pdb
+F:\office final project\N-Tier Arch\BOL(Business Objects Layer)\obj\Debug\BOL(Business Objects Layer).csprojAssemblyReference.cache

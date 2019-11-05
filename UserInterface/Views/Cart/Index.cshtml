@@ -1,0 +1,52 @@
+﻿@{
+    Layout = null;
+}
+
+@using UserInterface.Models;
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Cart</title>
+</head>
+<body>
+
+    <h3>Cart Page</h3>
+    <table cellpadding="2" cellspacing="2" border="1">
+        <tr>
+            <th>Option</th>
+            <th>Id</th>
+            <th>Name</th>
+            <th>Price</th>
+            <th>Quantity</th>
+            <th>Sub Total</th>
+        </tr>
+        @foreach (Cart item in (List<Cart>)Session["cart"])
+        {
+            <tr>
+                <td><a href="@Url.Action("Remove", "Cart", new { id = item.product.PRODUCT_ID })">Remove</a></td>
+                <td>@item.product.PRODUCT_ID</td>
+                <td>@item.product.NAME</td>
+                <td>@item.product.PRICE</td>
+                <td>@item.Quantity</td>
+                <td>@(item.product.PRICE * item.Quantity)</td>
+            </tr>
+        }
+        <tr>
+            <td align="right" colspan="6">Sum</td>
+            <td>
+                @{
+                    List<Cart> cart = (List<Cart>)Session["cart"];
+                    var total = cart.Sum(item => item.product.PRICE * item.Quantity);
+                }
+                @total
+            </td>
+        </tr>
+    </table>
+    <br>
+    <a href="@Url.Action("Index", "Consumer")">Continue Shopping</a>
+
+</body>
+</html>

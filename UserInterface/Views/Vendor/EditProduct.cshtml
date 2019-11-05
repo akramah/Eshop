@@ -1,0 +1,19 @@
+﻿@model BOL_Business_Objects_Layer_.Product
+
+@{
+    ViewBag.Title = "EditProduct";
+}
+
+<h2>EditProduct</h2>
+<div id="root"></div>
+
+<div>
+    @Html.ActionLink("Back to List", "Index")
+    <input type="file" name="ImageFile" />
+</div>
+
+<script src="~/Scripts/jquery-3.4.1.min.js"></script>
+<script src="~/Scripts/jquery.validate.min.js"></script>
+<script src="~/Scripts/jquery.validate.unobtrusive.min.js"></script>
+<script src="~/Scripts/jquery-1.10.2.min.js"></script>
+@Scripts.Render("~/Scripts/dist/vendorEditProduct.js")

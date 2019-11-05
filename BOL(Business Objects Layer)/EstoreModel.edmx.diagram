@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="899e3e8e6a94426a9c9500d8b3d8b8f9" Name="Diagram1">
+        <EntityTypeShape EntityType="EstoreModel.Category" Width="1.5" PointX="3" PointY="5.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="EstoreModel.Product" Width="1.5" PointX="5.25" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="EstoreModel.sysdiagram" Width="1.5" PointX="5.75" PointY="4.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="EstoreModel.User" Width="1.5" PointX="0.75" PointY="1.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="EstoreModel.Vendor" Width="1.5" PointX="3" PointY="1" IsExpanded="true" />
+        <AssociationConnector Association="EstoreModel.FK_Product_CATEGORY" ManuallyRouted="false" />
+        <AssociationConnector Association="EstoreModel.FK_Product_Vendor" ManuallyRouted="false" />
+        <AssociationConnector Association="EstoreModel.FK_Vendor_Users" ManuallyRouted="false" />
+        <EntityTypeShape EntityType="EstoreModel.RoleType" Width="1.5" PointX="0.75" PointY="5.75" />
+        <AssociationConnector Association="EstoreModel.FK_Users_RoleType" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

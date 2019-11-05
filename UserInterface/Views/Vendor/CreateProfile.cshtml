@@ -1,0 +1,21 @@
+﻿@model BOL_Business_Objects_Layer_.Vendor
+
+@{
+    ViewBag.Title = "CreateProfile";
+}
+
+<h2>CreateProfile</h2>
+
+<div id="root"></div>
+
+
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>
+
+<script src="~/Scripts/jquery-3.4.1.min.js"></script>
+<script src="~/Scripts/jquery.validate.min.js"></script>
+<script src="~/Scripts/jquery.validate.unobtrusive.min.js"></script>
+
+<script src="~/Scripts/jquery-1.10.2.min.js"></script>
+@Scripts.Render("~/Scripts/dist/vendorCreateProfile.js")

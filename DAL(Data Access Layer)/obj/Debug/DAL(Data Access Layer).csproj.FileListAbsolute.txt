@@ -1,0 +1,15 @@
+F:\office final project\N-Tier Arch\DAL(Data Access Layer)\bin\Debug\DAL(Data Access Layer).dll.config
+F:\office final project\N-Tier Arch\DAL(Data Access Layer)\bin\Debug\DAL(Data Access Layer).dll
+F:\office final project\N-Tier Arch\DAL(Data Access Layer)\bin\Debug\DAL(Data Access Layer).pdb
+F:\office final project\N-Tier Arch\DAL(Data Access Layer)\bin\Debug\BOL(Business Objects Layer).dll
+F:\office final project\N-Tier Arch\DAL(Data Access Layer)\bin\Debug\EntityFramework.dll
+F:\office final project\N-Tier Arch\DAL(Data Access Layer)\bin\Debug\EntityFramework.SqlServer.dll
+F:\office final project\N-Tier Arch\DAL(Data Access Layer)\bin\Debug\BOL(Business Objects Layer).pdb
+F:\office final project\N-Tier Arch\DAL(Data Access Layer)\bin\Debug\BOL(Business Objects Layer).dll.config
+F:\office final project\N-Tier Arch\DAL(Data Access Layer)\bin\Debug\EntityFramework.xml
+F:\office final project\N-Tier Arch\DAL(Data Access Layer)\bin\Debug\EntityFramework.SqlServer.xml
+F:\office final project\N-Tier Arch\DAL(Data Access Layer)\obj\Debug\DAL(Data Access Layer).csprojAssemblyReference.cache
+F:\office final project\N-Tier Arch\DAL(Data Access Layer)\obj\Debug\DAL(Data Access Layer).csproj.CoreCompileInputs.cache
+F:\office final project\N-Tier Arch\DAL(Data Access Layer)\obj\Debug\DAL(Data Access Layer).csproj.CopyComplete
+F:\office final project\N-Tier Arch\DAL(Data Access Layer)\obj\Debug\DAL(Data Access Layer).dll
+F:\office final project\N-Tier Arch\DAL(Data Access Layer)\obj\Debug\DAL(Data Access Layer).pdb
